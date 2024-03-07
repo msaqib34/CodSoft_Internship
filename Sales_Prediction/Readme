@@ -1,2 +1,40 @@
-<h1>Problem Statement</h1>
-Build a model which predicts sales based on the money spent on different platforms for marketing.
+# Sales Prediction Model
+
+## Problem Statement
+
+The goal of this project is to develop a predictive model that forecasts sales based on the amount of money spent on various marketing platforms.
+
+## Overview
+
+In today's competitive business landscape, companies invest heavily in marketing to drive sales and increase revenue. Understanding the relationship between marketing expenditures and sales performance is crucial for optimizing marketing strategies and maximizing return on investment.
+
+This project aims to leverage machine learning techniques to analyze historical data on marketing spending across different platforms (such as TV, radio, and newspapers) and corresponding sales figures. By building a predictive model, we seek to uncover patterns and insights that can inform future marketing decisions and help businesses allocate resources effectively.
+
+## Approach
+
+1. **Data Collection**: Gather data on marketing expenditures and corresponding sales figures from various sources.
+
+2. **Data Preprocessing**: Clean and preprocess the data to handle missing values, outliers, and other inconsistencies.
+
+3. **Exploratory Data Analysis (EDA)**: Explore the relationships between marketing spending and sales through visualizations and statistical analysis.
+
+4. **Feature Engineering**: Extract relevant features from the data and create new variables to improve model performance.
+
+5. **Model Development**: Build and train machine learning models to predict sales based on marketing spending.
+
+6. **Model Evaluation**: Evaluate the performance of the trained models using appropriate metrics and validation techniques.
+
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+## Conclusion
+
+By developing an accurate sales prediction model, businesses can make data-driven decisions to optimize marketing budgets, target the right audience segments, and ultimately drive revenue growth. This project aims to provide valuable insights and actionable recommendations for improving marketing effectiveness and maximizing return on investment.
